@@ -25,6 +25,7 @@ I'm constantly expanding my skills, and here’s what I'm focused on:
 Deepening my knowledge of full-stack development with a focus on scalability.
 Building more projects with React and Node.js to improve my coding patterns.
 Learning the basics of DevOps for streamlined deployment and management.
+
 🌐 Portfolio
 
 As I continue to build my skills, I'm developing projects that showcase my journey in full-stack development. Here are some things I'm working on:
