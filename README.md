@@ -37,5 +37,6 @@ Note: You can also check out my repositories for live demos and the code behind 
 🤝 Connect With Me
 
 LinkedIn: Ayo Olajide
+
 Feel free to reach out if you’d like to collaborate, chat about coding, or just say hi!
 
